@@ -35,3 +35,5 @@ The last two visualizations show us the most popular starting and stopping locat
 ## Conclusion
 
 These visualizations point out a few key points. The first point is that most users' trips only last around 10 minutes. The second point is that the most popular stop time is Thursday at 5 and 6 pm. A third point is that the predominant users are male subscribers. The last point is that start and stop location are similar, meaning that most trips are only short distances. To give us a better idea of our New York data, I think two more visualizations could help. A visualization that could help is one that shows the starting point of each user type. This could help us understand the behavior of the subscribing user and the non-subscribing user. Another visualization would be to plot the bikes usage and their starting points. This will allow us to see where the most used bikes are located at and might allow us to conclude if location leads to some bikes being used more than others. 
+
+[Link to Dashboard](https://public.tableau.com/app/profile/tanner.ormanoski/viz/citibikechallenge_16544824247260/NYCStory?publish=yes)
