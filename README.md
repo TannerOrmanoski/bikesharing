@@ -7,7 +7,9 @@ The purpose of this analysis is to show how the bike sharing business, Citibike,
 ## Results 
   
 Using the Tableau platform, I created multiple visualizations using a csv file of Citibike data.  
-  
+
+![](https://github.com/TannerOrmanoski/bikesharing/blob/main/Screen%20Shot%202022-06-08%20at%204.26.48%20PM.png)
+
 The first visualization was a line graph depicting trip duration. This visualization shows that most trips lasted between 0 to 20 minutes.  
   
 The next visualization displayed trip duration in a line graph, but this graph is broken down by gender. From this, we can see that males use Citibike the most, and there trips primarily last between 0 to 20 min, but some male users had trips that lasted up to 40 min. This graph also shows that all genders seem to have similar trip durations. 
