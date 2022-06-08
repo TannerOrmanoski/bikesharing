@@ -24,10 +24,10 @@ The third visualization allows us to see the most popular trip stop times. In th
   
 The following visualization breaks the third visualization down by gender. This shows that the genders seem to all follow a similar stop time pattern. 
   
-  
+![](https://github.com/TannerOrmanoski/bikesharing/blob/main/Screen%20Shot%202022-06-08%20at%204.28.06%20PM.png)  
   
 The question of who Citibikes number one user is, is answered with this visualization. The answer is shown to be male subscribers.  
   
-![](https://github.com/TannerOrmanoski/bikesharing/blob/main/Screen%20Shot%202022-06-08%20at%204.28.06%20PM.png)
+![](https://github.com/TannerOrmanoski/bikesharing/blob/main/Screen%20Shot%202022-06-08%20at%204.28.28%20PM.png)(https://github.com/TannerOrmanoski/bikesharing/blob/main/Screen%20Shot%202022-06-08%20at%204.28.44%20PM.png)
   
 The last two visualizations show us the most popular starting and stopping locations. From this, we can see that the starting and starting locations are very similar, meaning that the users are not traveling great distances with the bikes. 
